@@ -1,8 +1,8 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
+  "name": "safe-deployments",
   "version": "1.1.0",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/gnosis/safe-deployments/",
+  "homepage": "https://github.com/vvvictorlee/safe-deployments/",
   "license": "LGPL-3.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnosis/gnosis-deployments.git"
+    "url": "git+https://github.com/vvvictorlee/gnosis-deployments.git"
   },
   "keywords": [
     "Ethereum",
